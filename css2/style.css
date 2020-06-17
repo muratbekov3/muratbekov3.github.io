@@ -274,3 +274,33 @@ background-color: inherit;
 .card:hover .back{
     transform: rotateY(360deg);
 }
+.front img{
+margin-left: 40%;
+}
+.front5{
+    margin-left: -20%;
+    
+}
+@media screen and (max-device-width:460px){
+
+    .cards{
+        flex-wrap: wrap;
+        margin-bottom: 10px;
+        margin-left: 300px;
+        
+        
+    }
+    .cards .card{
+        margin-left: -300px;
+        justify-content: space-between;
+    }
+        
+    .ak{
+        margin-left: 40px;
+    }
+  
+    .akyl{
+        margin-left: 30px;
+    }
+}
+
