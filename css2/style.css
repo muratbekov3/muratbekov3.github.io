@@ -212,13 +212,17 @@ background-color: inherit;
     .cards{
         flex-wrap: wrap;
         margin-bottom: 10px;
-        margin-left: 300px;
+        margin-left: 200px;
         
         
     }
-    .cards .card{
-        margin-left: -300px;
-        justify-content: space-between;
+    .cards .profile{
+        margin-left: 115px;
+        
+    }
+    
+    .cardImg{
+    display: block;
     }
         
     .ak{
@@ -228,5 +232,9 @@ background-color: inherit;
     .akyl{
         margin-left: 30px;
     }
+    .section button{
+        width: 200px;
+    }
+   
 }
 
