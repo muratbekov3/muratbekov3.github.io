@@ -1,1 +1,1 @@
-# muratbekov3.github.io
+# muratbekov3.io
